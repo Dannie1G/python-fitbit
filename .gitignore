@@ -14,3 +14,7 @@ htmlcov
 
 # Editors
 .idea
+
+# Dannie
+*.ipynb_checkpoints
+__pycache__/
