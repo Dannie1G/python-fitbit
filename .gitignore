@@ -18,3 +18,4 @@ htmlcov
 # Dannie
 *.ipynb_checkpoints
 __pycache__/
+*_dg.*
